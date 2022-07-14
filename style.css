@@ -17,6 +17,15 @@ a:hover {
 hr {
 	 border-top: 1px dashed;
  	 border-bottom: none;
-	 width: 750px;
+	 width: auto;
 	 color: #ebdbb2
+}
+
+blockquote {
+	background-color: #1d2021;
+	padding: 10px;
+}
+
+img {
+	width: 500px;
 }
