@@ -1,15 +1,14 @@
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
 body {
-  background-color: #1d2021;
-  font-family: "IBM Plex Sans";
-  color: #8ec07c;
+	font-family: "IBM Plex Sans";
+	background-color: grey; 
 }
 
 a {
-  color: #8ec07c;
+	color: white;
 }
 
 a:hover {
-  color: #458588;
+	color: teal;
 }
